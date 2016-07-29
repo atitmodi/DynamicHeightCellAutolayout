@@ -1,0 +1,13 @@
+PODS:
+  - Font-Awesome-Swift (1.4.5)
+  - HCSStarRatingView (1.4.3)
+
+DEPENDENCIES:
+  - Font-Awesome-Swift (~> 1.4.5)
+  - HCSStarRatingView (~> 1.4.3)
+
+SPEC CHECKSUMS:
+  Font-Awesome-Swift: 0af30357ab68dbcfa2d211254a5c11a158261112
+  HCSStarRatingView: bada6ae98258c3019531e0218030e2d5ad10765a
+
+COCOAPODS: 0.39.0
